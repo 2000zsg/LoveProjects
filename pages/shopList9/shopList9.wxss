@@ -1,0 +1,45 @@
+page{
+    background-color: #fff;
+}
+
+.shop9{
+    padding: 20rpx;
+    border-bottom: 1rpx solid #ddd;
+    display: flex;
+    position: relative;
+}
+.shop-img{
+    width: 160rpx;
+    height: 150rpx;
+    margin-right: 20rpx;
+}
+
+.shop-info{
+    width: 520rpx;
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    color: #666;
+    line-height: 1.5;
+}
+.shop-title{
+    font-size: 16px;
+    color: #333;
+}
+.shop-star{
+    position: absolute;    
+    right: 20rpx;
+    top: 20rpx;  
+    /* border: 1rpx solid #333;   */
+}
+.star-after{
+  color:  #e2e2e2;
+}
+.star-before{
+    position: absolute;
+    color: #f19e38;
+    left: 0;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+}

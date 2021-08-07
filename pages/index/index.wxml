@@ -1,0 +1,76 @@
+
+<swiper indicator-dots autoplay interval='1500' circular class='slider'>
+	<swiper-item>
+      	<image src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.51wendang.com%2Fpic%2F5ac3e17321daf40cf4e99a09%2F9-810-jpg_6-1080-0-0-1080.jpg&refer=http%3A%2F%2Fwww.51wendang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1630904434&t=1130d128488eb4156fa5d883b4c565fc" />
+    </swiper-item>
+	<swiper-item>
+      	<image src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwx1.sinaimg.cn%2Flarge%2F008lNCTNly4gsqyklyx26j30u00j775z.jpg&refer=http%3A%2F%2Fwx1.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1630904600&t=a4b8395323a79b07188c1cf8e4357f21"/>
+    </swiper-item>
+    <swiper-item>
+      	<image src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimgtianqi.eastday.com%2Fres%2Fupload%2Fue%2Fimage%2F20180917%2F1537164109734343.jpg&refer=http%3A%2F%2Fimgtianqi.eastday.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1630904681&t=4dab4e1cc5467bfc7006555a2937c75d"/>
+    </swiper-item>
+    <swiper-item>
+      	<image src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.hnsc.gov.cn%2Fuploadfile%2F2018%2F0820%2F20180820916318.jpg&refer=http%3A%2F%2Fwww.hnsc.gov.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1630905465&t=ac35562d4bcc3e9fa4b8b619f83f70d9"/>
+    </swiper-item>
+
+   
+</swiper>
+
+
+<!-- 首页导航分区 --> 
+<view class='index-nav'>
+  <navigator class='nav-item bdr' url='/pages/shopList/shopList'>
+    <image src='/assets/icons/地图.jpeg'></image>
+    <text>地区专送</text>
+  </navigator>
+   <navigator class='nav-item bdr'url='/pages/shopList2/shopList2'>
+    <image src='/assets/icons/食物.jpeg'></image>
+    <text>食物专区</text>
+  </navigator>
+   <navigator class='nav-item bdr'url='/pages/shopList3/shopList3'>
+    <image src='/assets/icons/个人护理.jpeg'></image>
+    <text>护理专区</text>
+  </navigator>
+   <navigator class='nav-item bdr'url='/pages/shopList4/shopList4'>
+    <image src='/assets/icons/玩具.jpeg'></image>
+    <text>玩具专区</text>
+  </navigator>
+   <navigator class='nav-item bdr'url='/pages/shopList5/shopList5'>
+    <image src='/assets/icons/家具.jpeg'></image>
+    <text>家具专区</text>
+  </navigator>
+   <navigator class='nav-item bdr'url='/pages/shopList6/shopList6'>
+    <image src='/assets/icons/绿植.jpeg'></image>
+    <text>绿植专区</text>
+  </navigator>
+   <navigator class='nav-item bdr'url='/pages/shopList7/shopList7'>
+    <image src='/assets/icons/家电.jpeg'></image>
+    <text>家电专区</text>
+  </navigator>
+   <navigator class='nav-item bdr'url='/pages/shopList8/shopList8'>
+    <image src='/assets/icons/饲料1.jpeg'></image>
+    <text>饲料专区</text>
+  </navigator>
+   <navigator class='nav-item bdr'url='/pages/shopList9/shopList9'>
+    <image src='/assets/icons/grid-10.jpg' mode='aspectFill'></image>
+    <text>More</text>
+  </navigator>
+  
+</view>
+
+<!--index.wxml-->
+<button bindtap='houduanButton1'>后端接口</button>
+<view wx:for="{{list}}">
+    {{item}}
+</view>
+
+
+<!-- 首页入口分区 -->
+<view class="index-enter">
+ <navigator class='enter-item'url='/pages/recommand/recommand'>
+    <image src='/assets/images/link-01.png' ></image>
+ </navigator>
+  <navigator class='enter-item'>
+    <image src='/assets/images/link-02.png'></image>
+ </navigator>
+</view>

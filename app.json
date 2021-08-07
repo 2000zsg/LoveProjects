@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/message/message",
+    "pages/profile/profile",
+    "pages/contact/contact",
+    "pages/shopList/shopList",
+    "pages/shopList2/shopList2",
+    "pages/shopList3/shopList3",
+    "pages/shopList4/shopList4",
+    "pages/shopList5/shopList5",
+    "pages/shopList6/shopList6",
+    "pages/shopList7/shopList7",
+    "pages/shopList8/shopList8",
+    "pages/shopList9/shopList9",
+    "pages/recommand/recommand"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f60",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "Home",
+        "iconPath": "/assets/tabs/home.png",
+        "selectedIconPath": "/assets/tabs/home-active.png"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "text": "News",
+        "iconPath": "/assets/tabs/message.png",
+        "selectedIconPath": "/assets/tabs/message-active.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "My Account",
+        "iconPath": "/assets/tabs/profile.png",
+        "selectedIconPath": "/assets/tabs/profile-active.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

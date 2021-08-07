@@ -1,0 +1,88 @@
+.slider{
+  width: 100%;
+  height: 390rpx;
+  overflow: hidden; 
+}
+.slider image{
+  width: 100%;
+  height: 390rpx;
+}
+.index-nav{
+  display: flex;
+  flex-direction: row;  
+  flex-wrap: wrap;
+}
+
+.index-nav .nav-item{
+  width: 33.33333%;
+  height: 200rpx;
+ /* border-right: 1rpx solid #ccc;
+  border-bottom: 1rpx solid #ccc;*/
+  box-sizing: border-box;
+  display: flex;
+  /*设置子元素垂直排列*/
+  flex-direction: column;
+  /* 设置交叉轴居中 */
+  justify-content: center;
+  /*设置交叉线的对齐方式*/
+  align-items: center;
+  font-size: 16px;
+
+   border-bottom:1rpx solid #ccc;
+   position: relative;
+}
+
+/*使用伪元素实现边线效果*/
+/* .index-nav .nav-item::after{
+  content: "";
+  width: 1rpx;
+  height: 100%;
+  background-color: #ccc;
+  position: absolute;
+  right:0;
+  top:0;
+} */
+
+/* 实现最右边盒子的右侧无边线 */
+ .index-nav .nav-item:nth-child(3n)::after{ 
+  /* border-right: 0 none; */
+   width: 0; 
+ } 
+.index-nav image{
+	width:80rpx;
+	height:80rpx;
+}
+
+/*模块三  */
+.index-enter{
+  display: flex; 
+  padding: 20px 25px;  
+}
+.index-enter .enter-item{
+  width: 50%;
+ display: flex;  
+ justify-content: center; 
+}
+.index-enter image{
+  width: 320rpx;
+  height: 178rpx;
+}
+/*方法一：
+ 1.给page设置背景色
+ 2.给分区填充白色
+ 3.通过margin隔开
+  
+   */
+/* page{
+  background-color: #eee;
+}
+
+.index-enter{
+  margin-top: 20rpx;
+}
+.index-nav,.index-enter
+{
+  background-color: #fff;
+} */
+
+/*方法二：通过引入一个"分区盒子"来进行分割，详见app.wcss */

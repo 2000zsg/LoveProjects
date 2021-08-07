@@ -1,0 +1,31 @@
+<view class="card">
+    <text class='card-title'>郑州洪水最新消息</text>
+    <text class='card-date'>2018-6-30</text>
+    <image src='/assets/images/郑州新闻.jpeg' mode='aspectFill' class='card-img'></image>
+    <text class='card-desc'>河南百亿水灾理赔背后：郑州40万辆车受损，险企怎么扛？</text>
+    <text class='card-read arrow'>More</text>
+</view>
+
+<view class="card">
+    <text class='card-title'>中国疫情控制情况</text>
+    <text class='card-date'>2018-6-30</text>
+    <image src='/assets/images/疫情控制.jpeg' mode='aspectFill' class='card-img'></image>
+    <text class='card-desc'>联合国专家预测下一个“超级传播国”，中国周边疫情形势再度危急</text>
+    <text class='card-read arrow'>More</text>
+</view>
+
+<view class="card">
+    <text class='card-title'>烟花过境后的沿海地区</text>
+    <text class='card-date'>2018-12-9</text>
+    <image src='/assets/images/烟花.jpeg' mode='aspectFill' class='card-img'></image>
+    <text class='card-desc'>“烟花”过境长三角，刚刚已抵达南京！各地如何接招？</text>
+    <text class='card-read arrow'>More</text>
+</view>
+
+<view class="card">
+    <text class='card-title'>春蕾计划</text>
+    <text class='card-date'>2018-12-11</text>
+    <image src='/assets/images/春蕾计划.jpeg'></image>
+    <text class='card-desc'> 与历史、文化和艺术相遇，新东方春蕾女童开启沪上游学</text>
+    <text class='card-read arrow'>More</text>
+</view>

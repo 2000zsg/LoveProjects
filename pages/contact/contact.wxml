@@ -1,0 +1,9 @@
+<view class='divider'></view>
+<view class='cell'>
+  <navigator class='cell-item arrow'>
+      <text>Setting</text>
+  </navigator>
+   <navigator class='cell-item arrow'>
+      <text>Clear Catch</text>
+  </navigator>
+</view>

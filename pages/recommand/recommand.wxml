@@ -1,0 +1,10 @@
+<view class='shop' style="position: relative; left: 0rpx; top: 425rpx">
+   <view class='shop-info'>
+
+       <text class='shop-title' style="width: 729rpx; height: 169rpx; display: block; box-sizing: border-box; left: NaNrpx; top: NaNrpx">好的推荐产品，都可以在这个界面进行推荐，我们会定期筛选，对产品进行上新</text>      
+   </view>
+</view>
+<button  onclick = "back()">返回主页</button>
+
+
+

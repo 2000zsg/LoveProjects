@@ -1,0 +1,42 @@
+
+<view class='shop3'>
+   <image class='shop-img' src='https://img1.baidu.com/it/u=3579426047,3917236296&fm=224&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>洗发露</text></view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:90%;'>★★★★★</view>
+    </view>
+</view>
+
+<view class='shop3'>
+   <image class='shop-img' src='https://img1.baidu.com/it/u=33095010,2857923436&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>香皂</text></view>
+       <view class='shop-star'>     
+   <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:90%;'>★★★★★</view>
+    </view>
+</view>
+
+<view class='shop3'>
+   <image class='shop-img' src='https://img0.baidu.com/it/u=3984614763,3596122696&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>卫生巾</text> </view> 
+       <view class='shop-star'>      
+   <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:90%;'>★★★★★</view>
+    </view>
+</view>
+
+<view class='shop3'>
+   <image class='shop-img' src='https://img0.baidu.com/it/u=3507224429,3849023645&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>毛巾</text>   </view>
+       <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:90%;'>★★★★★</view>
+    </view>
+</view>
+
+<view class='loadmore loading'>loading...</view>

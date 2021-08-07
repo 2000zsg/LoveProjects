@@ -1,0 +1,57 @@
+<view class='shop2'>
+   <image class='shop-img' src='https://gimg2.baidu.com/image_search/src=http%3A%2F%2F1821.img.pp.sohu.com.cn%2Fimages%2Fblog%2F2012%2F3%2F21%2F20%2F17%2Fu218359687_136f607f20cg213_blog.jpg&refer=http%3A%2F%2F1821.img.pp.sohu.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1630934584&t=215317540b444b3b98ad59846322edc3' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>牛奶</text>
+       <text class='shop-tel'>Tel：18073131885</text>
+       <text class='shop-address'>Address：11th Floor, Yuxin Taolin Office Building, No. 808 Jianshe Road</text>
+       <text class='shop-time'>Business hours: Monday to Sunday 09:00-18:00</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:80%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop2'>
+   <image class='shop-img' src='https://img0.baidu.com/it/u=2047750007,3133081046&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>鸡蛋</text>
+       <text class='shop-tel'>Phone: 13786699912</text>
+       <text class='shop-address'>Address: Room 605, Unit 2, Unit 1, A1, Wanda Lake Mansion (Wanda Plaza)</text>
+       <text class='shop-time'>Business hours:Monday to Sunday 08:00-19:00</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:100%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop2'>
+   <image class='shop-img' src='https://img1.baidu.com/it/u=3105523556,2520554619&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>炙烤鸡肉</text>
+       <text class='shop-tel'>Phone: 15107366286</text>
+       <text class='shop-address'>Address: Room 3104, Unit 1, Building 3, Building A1, Wanda Lake Road, Wanda Lake Road (Wanda Plaza)</text>
+       <text class='shop-time'>炙烤鸡肉</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:86%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop2'>
+   <image class='shop-img' src='https://img1.baidu.com/it/u=3179890909,214958580&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>猕猴桃</text>
+       <text class='shop-tel'>Tel: 18673607627</text>
+       <text class='shop-address'>Address: 1st Floor, Alpine Street, Never Sleeping City (formerly Blue Lotus Bar, near Xiaoxiang Cinema)</text>
+       <text class='shop-time'>Business hours: Monday to Sunday 09:00-18:00</text>    
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:90%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='loadmore loading'>loading...</view>

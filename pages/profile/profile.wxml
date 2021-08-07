@@ -1,0 +1,30 @@
+<view class="avatar center"> 
+   <image src='/assets/images/头像.jpg'></image>
+</view>
+<view class='divider'></view>
+
+<view class='cell'>
+    <navigator class='cell-item arrow'>
+      <text>个人数据 </text>
+    </navigator>
+     <navigator class='cell-item arrow'>
+      <text>我的购买</text>
+    </navigator>
+    <view class='divider'></view>
+     <navigator class='cell-item arrow'>
+      <text>余额</text>
+    </navigator>
+     <navigator class='cell-item arrow'>
+      <text>货物查询记录</text>
+    </navigator>
+     <navigator class='cell-item arrow'>
+      <text>售后问题</text>
+    </navigator>
+     <navigator class='cell-item arrow'>
+      <text>关于使用</text>
+    </navigator>
+    <view class='divider'></view>
+     <navigator class='cell-item arrow'>
+      <text>更新</text>
+    </navigator>
+</view>

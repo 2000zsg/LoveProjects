@@ -1,0 +1,42 @@
+<view class='shop5'>
+   <image class='shop-img' src='https://img1.baidu.com/it/u=1043329482,1350986269&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>床</text>
+       <text class='shop-tel'>Tel：4006161015-2263</text>
+       <text class='shop-address'>Address: Changde Center, Wuling, Changde</text>
+       <text class='shop-time'> Business Hours：8:00-17:00/day</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:80%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop5'>
+   <image class='shop-img' src='https://img1.baidu.com/it/u=1579413642,1305227257&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>桌椅三件套</text>
+       <text class='shop-tel'>Tel：18321069023</text>
+       <text class='shop-address'>Address: 707 Zhangyang Road, Pudong New Area</text>
+       <text class='shop-time'>Business Hours:8:00-15:00/day</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:50%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop5'>
+   <image class='shop-img' src='https://img0.baidu.com/it/u=1141026272,139871365&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>沙发</text>
+       <text class='shop-tel'>Tel:13054077640 </text>
+       <text class='shop-address'>Address: door-to-door service</text>
+       <text class='shop-time'>Business Hours:24hours/day</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:85%;'>★★★★★</view>
+   </view>
+</view>
+<view class='loadmore loading'>loading...</view>

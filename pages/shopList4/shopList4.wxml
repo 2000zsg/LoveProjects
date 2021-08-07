@@ -1,0 +1,57 @@
+<view class='shop4'>
+   <image class='shop-img' src='https://img0.baidu.com/it/u=3082886454,1416299293&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>洋娃娃</text>
+       <text class='shop-tel'>Tel：0931-6822654</text>
+       <text class='shop-address'>Address：Shenzhen Science and Technology Development Zone</text>
+       <text class='shop-time'>Recruitment: Web development, Java development</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:80%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop4'>
+   <image class='shop-img' src='https://img1.baidu.com/it/u=3673270049,4112685141&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>乐高积木</text>
+       <text class='shop-tel'>Tel：0511-6557883</text>
+       <text class='shop-address'>Address：68 Qinghe Zhongjie, Haidian District, Beijing</text>
+       <text class='shop-time'>Recruitment:Android Development, Web Development, System Development</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:80%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop4'>
+   <image class='shop-img' src='https://img1.baidu.com/it/u=3391342745,744360782&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>篮球</text>
+       <text class='shop-tel'>Tel：0788-6538736</text>
+       <text class='shop-address'>Address：Kantian Huawei Base, Longgang District, Shenzhen</text>
+       <text class='shop-time'>Recruitment:Hardware Development, Software Development, Java Development</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:75%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop4'>
+   <image class='shop-img' src='https://img2.baidu.com/it/u=2649491353,1716072617&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>乒乓球（台）</text>
+       <text class='shop-tel'>Tel：0518-6735886</text>
+       <text class='shop-address'>Address：Hangzhou, China</text>
+       <text class='shop-time'>Recruitment:Marketing, copywriting, designers</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:80%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='loadmore loading'>loading...</view>

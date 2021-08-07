@@ -1,0 +1,57 @@
+<view class='shop7'>
+   <image class='shop-img' src='https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.100ye.com%2Fimg1%2F4%2F1294%2F1310%2F10942310%2Fmsgpic%2F62802296.jpg&refer=http%3A%2F%2Fimg1.100ye.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1630935837&t=c5bc8a2372d556731a1a6ef8b20e0ebe'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>电视</text>
+       <text class='shop-tel'>Tel: 0286-153895</text>
+       <text class='shop-address'>Address: Xianyuan District 608</text>
+       <text class='shop-time'>Business hours: Monday to Friday 8:00-20:00</text>       
+   </view>	
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:80%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop7'>
+   <image class='shop-img' src='https://img0.baidu.com/it/u=1263299919,1295037729&fm=26&fmt=auto&gp=0.jpg'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>冰箱</text>
+       <text class='shop-tel'>Tel:1367-88346</text>
+       <text class='shop-address'>Address: Building B, Dejingyuan 206</text>
+       <text class='shop-time'>Business hours: Monday to Friday 9:00-19:00 </text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:60%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop7'>
+   <image class='shop-img' src='https://img1.baidu.com/it/u=3435191459,2289579378&fm=26&fmt=auto&gp=0.jpg'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>洗衣机</text>
+       <text class='shop-tel'>Tel：7824-593756</text>
+       <text class='shop-address'>  Address: Building C, Dejingyuan 806</text>
+       <text class='shop-time'>Business hours: Monday to Saturday 7:00-24:00</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:90%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop7'>
+   <image class='shop-img' src='https://img0.baidu.com/it/u=2128713781,4229010540&fm=26&fmt=auto&gp=0.jpg'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>电脑</text>
+       <text class='shop-tel'>Tel：2475-636746</text>
+       <text class='shop-address'>Address: Xianyuan District 507</text>
+       <text class='shop-time'>Business hours: Monday to Sunday </text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:100%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='loadmore loading'>loading...</view>

@@ -1,0 +1,41 @@
+
+<view class='shop9'>
+   <image class='shop-img' src='https://img1.baidu.com/it/u=2017531749,100278859&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>红十字会</text>
+       <text class='shop-tel'>Tel：0511-6557883</text>
+       <text class='shop-address'>Address：68 Qinghe Zhongjie, Haidian District, Beijing</text>
+       <text class='shop-time'>Recruitment:Android Development, Web Development, System Development</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:80%;'>★★★★★</view>
+   </view>
+</view>
+<view class='shop9'>
+   <image class='shop-img' src='https://img2.baidu.com/it/u=2811862966,543441244&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>一元捐</text>
+       <text class='shop-tel'>Phone: 13786699912</text>
+       <text class='shop-address'>Address: Room 605, Unit 2, Unit 1, A1, Wanda Lake Mansion (Wanda Plaza)</text>
+       <text class='shop-time'>Business hours:Monday to Sunday 08:00-19:00</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:100%;'>★★★★★</view>
+   </view>
+</view>
+<view class='shop9'>
+   <image class='shop-img' src='https://img0.baidu.com/it/u=2174077838,3415434434&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>国际救助儿童会</text>
+       <text class='shop-tel'>Tel：4006161015-2263</text>
+       <text class='shop-address'>Address: Changde Center, Wuling, Changde</text>
+       <text class='shop-time'> Business Hours：8:00-17:00/day</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:80%;'>★★★★★</view>
+   </view>
+</view>
+<view class='loadmore loading'>loading...</view>

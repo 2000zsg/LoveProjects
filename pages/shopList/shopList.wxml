@@ -1,0 +1,56 @@
+<view class='shop'>
+   <image class='shop-img' src='https://img2.baidu.com/it/u=198106146,388333070&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>郑州</text>
+       <text class='shop-tel'>Tel：0521-685335</text>
+       <text class='shop-address'>Address：First floor of Wanda Plaza</text>
+       <text class='shop-time'>Business Hours：24hours/day</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:80%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop'>
+   <image class='shop-img' src='https://img1.baidu.com/it/u=3720707023,3045384517&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>云南</text>
+       <text class='shop-tel'>Tel：0598-65986</text>
+       <text class='shop-address'>Address：First floor of Wanda Plaza</text>
+       <text class='shop-time'>Business Hours：24hours/day</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:50%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop'>
+   <image class='shop-img' src='https://img2.baidu.com/it/u=2601444380,3723439374&fm=253&fmt=auto&app=120&f=GIF?w=751&h=500' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>西藏</text>
+       <text class='shop-tel'>Tel：0124-657686</text>
+       <text class='shop-address'>Address：First floor of Wanda Plaza</text>
+       <text class='shop-time'>Business Hours：10:00-22:00</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:50%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop'>
+   <image class='shop-img' src='https://img0.baidu.com/it/u=225026755,2164264265&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>5
+       <text class='shop-title'>青海</text>
+       <text class='shop-tel'>Tel：0127-6563776</text>
+       <text class='shop-address'>Address：First floor of Wanda Plaza</text>
+       <text class='shop-time'>Business Hours：10:00-22:00</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:50%;'>★★★★★</view>
+   </view>
+</view>
+<view class='loadmore loading'>Loading...</view>

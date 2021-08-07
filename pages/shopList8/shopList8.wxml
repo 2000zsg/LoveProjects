@@ -1,0 +1,61 @@
+<view class='shop8'>
+   <image class='shop-img'
+    src='https://img1.baidu.com/it/u=761451762,95930452&fm=26&fmt=auto&gp=0.jpg'
+     mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>猪饲料</text>
+       <text class='shop-tel'>Tel：0549-685235</text>
+       <text class='shop-address'>Address: First floor of Mercury Tower </text>
+       <text class='shop-time'>Business hours: Monday to Sunday 9:00-21:00</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:100%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop8'>
+   <image class='shop-img' src='https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg011.hc360.cn%2Fk2%2FM00%2FF4%2F2F%2FSB8a7574dfe70af385CBe4a98eaBf30B35.jpg&refer=http%3A%2F%2Fimg011.hc360.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1630936013&t=fcc142d6abdf2f5be1809e1aa2318d59' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>牛饲料</text>
+       <text class='shop-tel'>Tel：0598-32986</text>
+       <text class='shop-address'>Address: 21 Pedestrian Street</text>
+       <text class='shop-time'>Business hours: Monday to Sunday 8:00-22:00</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:80%;'>★★★★★</view>
+   </view>
+</view>
+
+
+<view class='shop8'>
+   <image class='shop-img' src='https://ss3.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/baike/w%3D268/sign=6980c47d7a3e6709be0042f903c79fb8/d1160924ab18972b1a013890e3cd7b899e510ab4.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>羊饲料</text>
+       <text class='shop-tel'>Tel：7399186</text>
+       <text class='shop-address'>Address: 49 Asiba Road</text>
+       <text class='shop-time'>Business hours: Monday to Saturday 10：00-22:00</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:70%;'>★★★★★</view>
+   </view>
+</view>
+
+
+<view class='shop8'>
+   <image class='shop-img' src='https://img2.baidu.com/it/u=1282764711,3473100831&fm=26&fmt=auto&gp=0.jpg'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>鱼饲料</text>
+       <text class='shop-tel'>Tel：6666-32986</text>
+       <text class='shop-address'>Address: 425 Longxiang West Road</text>
+       <text class='shop-time'>Business hours: Tuesday to Saturday9：00-20:00</text>       
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:50%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='loadmore loading'>loading...</view>

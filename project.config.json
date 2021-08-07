@@ -1,0 +1,148 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": false,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "lazyloadPlaceholderEnable": false,
+    "useMultiFrameRuntime": true,
+    "useApiHook": true,
+    "useApiHostProcess": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "enableEngineNative": false,
+    "useIsolateContext": true,
+    "userConfirmedBundleSwitch": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true,
+    "showES6CompileOption": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.0.9",
+  "appid": "wxd99edab75db35aa2",
+  "projectname": "%E6%9C%80%E7%BB%88%E7%89%88",
+  "condition": {
+    "search": {
+      "list": []
+    },
+    "conversation": {
+      "list": []
+    },
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "currentL": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "id": -1,
+          "name": "单页调试",
+          "pathName": "pages/message/message",
+          "query": ""
+        },
+        {
+          "id": 1,
+          "name": "message",
+          "pathName": "pages/message/message",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "profile",
+          "pathName": "pages/profile/profile",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "contact",
+          "pathName": "pages/contact/contact",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "shopList",
+          "pathName": "pages/shopList/shopList",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "shopList2",
+          "pathName": "pages/shopList2/shopList2",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "shopList3",
+          "pathName": "pages/shopList3/shopList3",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "shopList4",
+          "pathName": "pages/shopList4/shopList4",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "shopList5",
+          "pathName": "pages/shopList5/shopList5",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "shopLis6t",
+          "pathName": "pages/shopList6/shopList6",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "shopList7",
+          "pathName": "pages/shopList7/shopList7",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "shopList8",
+          "pathName": "pages/shopList8/shopList8",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "shopList9",
+          "pathName": "pages/shopList9/shopList9",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "recommand",
+          "pathName": "pages/recommand/recommand",
+          "query": ""
+        }
+      ]
+    }
+  }
+}

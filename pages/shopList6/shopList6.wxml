@@ -1,0 +1,44 @@
+
+<view class='shop6'>
+   <image class='shop-img' src='https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp4.pccoo.cn%2Fes_product%2F20160623%2F2016062309252119183047.jpg&refer=http%3A%2F%2Fp4.pccoo.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1630935663&t=989f003ea53453aeb86206c5c30f7836' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>猪笼草</text>
+       <text class='shop-tel'>Phone: 0736-7282858</text>
+       <text class='shop-address'>Address: 52 Changyi Road, Wuling District</text>
+       <text class='shop-time'>Monday to Sunday 08:00-18:30</text>
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:88%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop6'>
+   <image class='shop-img' src='https://img1.baidu.com/it/u=2646808547,2924592036&fm=26&fmt=auto&gp=0.jpg' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>多肉</text>
+       <text class='shop-tel'>Phone: No. 4084 Renmin Road, Wuling District</text>
+       <text class='shop-address'>Address: No. 4084 Renmin Road, Wuling District</text>
+       <text class='shop-time'>Monday to Sunday 08:00-18:00</text> 
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:50%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='shop6'>
+   <image class='shop-img' src='https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg11.360buyimg.com%2Fn1%2Fjfs%2Ft1408%2F34%2F1385229341%2F460660%2F3cc45b21%2F55c5d89cN76b216e4.jpg&refer=http%3A%2F%2Fimg11.360buyimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1630935672&t=bbc8c31b8f35e755bd896fa8caa13fc2' mode='aspectFill'></image>
+   <view class='shop-info'>
+       <text class='shop-title'>仙人球</text>
+       <text class='shop-tel'>Phone: 0736-2600880</text>
+       <text class='shop-address'>Address: Facade of No. 1-2, Nanping Resettlement Community, Sanxing Road, Wuling District</text>
+       <text class='shop-time'>Monday to Sunday 08:00-18:00</text>
+   </view>
+   <view class='shop-star'>     
+      <view class='star-after'>★★★★★</view>
+       <view class='star-before' style='width:60%;'>★★★★★</view>
+   </view>
+</view>
+
+<view class='loadmore loading'>loading...</view>
